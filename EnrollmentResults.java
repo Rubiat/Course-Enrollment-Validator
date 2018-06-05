@@ -104,7 +104,7 @@ public class EnrollmentResults {
 			line3 = s.split("	");
 
 			if (line3.length>1)  { // to see if it contains something after the 'C'
-				coReqID = line3[1];    // THIS IS WHERE IT might go wrong
+				coReqID = line3[1];
 			}
 
 			if (Syllabus.contains(courseID) == false) { // verifying if the list already contains that course
