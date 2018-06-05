@@ -126,6 +126,8 @@ public class EnrollmentResults {
 		}
 	}
 
+	/** This method creates the list from a request file (depending on user input) and then prints whether the student can enroll 
+	in the requested courses or why not */
 	public static void createArrayList() {
 
 		Scanner input = new Scanner(System.in);
