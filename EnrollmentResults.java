@@ -1,3 +1,10 @@
+// -------------------------------------------------------
+// Driver Class
+// Written by: Rubiat Zaman
+// Comments: This class tests the linked list created from the syllabus text file in various ways. Most of the different tests are
+// commented out for now so as not to test everything at the same time.
+// --------------------------------------------------------
+
 package Assignment4;
 
 import java.io.FileInputStream;
