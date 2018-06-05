@@ -1,3 +1,9 @@
+// -------------------------------------------------------
+// Course Class
+// Written by: Rubiat Zaman
+// Comments: Contains all the ttributes of a Course object and some methods
+// --------------------------------------------------------
+
 package Assignment4;
 
 import java.util.Scanner;
