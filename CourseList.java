@@ -1,3 +1,10 @@
+// -------------------------------------------------------
+// CourseList & CourseNode Class
+// Written by: Rubiat Zaman
+// Comments: This file contains the CourseList class which contains the CourseNode class inside it. The CourseList class contains 
+// multiple methods to manipulate the linked list.
+// --------------------------------------------------------
+
 package Assignment4;
 
 import java.util.NoSuchElementException;
